@@ -1,0 +1,16 @@
+node_modules
+package-lock.json
+yarn.lock
+.cache
+yarn-error.log
+.vscode
+build
+dist
+logs
+yarn-error.log
+npm-debug.log
+.npm
+.env
+env.yml
+.webpack
+.serverless
