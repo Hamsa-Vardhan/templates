@@ -1,0 +1,11 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hamsa-vd/templates.git",
+  "author": "Hamsa Vardhan Darapureddi <hamsavardhan99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "afd": "^0.2.7"
+  }
+}
